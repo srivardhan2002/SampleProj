@@ -7,5 +7,4 @@ int main(){
     cout<<"New line of feature 1"<<endl;
     cout<<"Other line of f1"<<endl;
     cout<<"3nd line of f1"<<endl;
-    cout<<"4th line of main"<<endl;
 }
